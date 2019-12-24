@@ -1,9 +1,3 @@
-# generic_text_logger
-
-A generic text-based logger for easy row by row logging, useful for debugging of other code.
-
-Included sample.py gives example of usage:
--
 from generic_text_logger import *
 
 sample_title_array = ["Value 1", "Value 2", "Value 3", "Value 4"]
@@ -20,4 +14,3 @@ for index in range(0,rows):
 	write_log_entry(sample_title_array, index, sys.stdout, value_array)
 
 # End For
--
