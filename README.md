@@ -1,6 +1,6 @@
 # generic_text_logger
 
-A generic text-based logger for easy row by row logging, useful for debugging of other code.
+A tabular text-based logger for easy row by row logging, useful for debugging database and similar code.
 
 Included sample.py gives example of usage:
 
