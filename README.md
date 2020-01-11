@@ -1,4 +1,4 @@
-# generic_text_logger
+# tabular_text_logger
 
 A tabular text-based logger for easy row by row logging, useful for debugging database and similar code.
 
